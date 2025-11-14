@@ -11,7 +11,8 @@ config_version=5
 [application]
 
 config/name="TopDownShooter"
-config/features=PackedStringArray("4.5", "Forward Plus")
+run/main_scene="res://Nodes/hello_world.tscn"
+config/features=PackedStringArray("4.5", "C#", "Forward Plus")
 config/icon="res://Assets/icon.svg"
 
 [dotnet]

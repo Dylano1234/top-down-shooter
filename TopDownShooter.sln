@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopDownShooter", "TopDownShooter.csproj", "{171ABE4D-3529-4D31-A632-EDC7E3B5B4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{171ABE4D-3529-4D31-A632-EDC7E3B5B4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171ABE4D-3529-4D31-A632-EDC7E3B5B4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171ABE4D-3529-4D31-A632-EDC7E3B5B4BA}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{171ABE4D-3529-4D31-A632-EDC7E3B5B4BA}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{171ABE4D-3529-4D31-A632-EDC7E3B5B4BA}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{171ABE4D-3529-4D31-A632-EDC7E3B5B4BA}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
